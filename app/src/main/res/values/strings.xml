@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompararApp</string>
+    <string name="first_hint">Primera cadena...</string>
+    <string name="second_hint">Segunda cadena...</string>
+    <string name="compare_button">Comparar cadenas</string>
+    <string name="title_compare">Inserte las cadenas a comparar</string>
+
+</resources>
